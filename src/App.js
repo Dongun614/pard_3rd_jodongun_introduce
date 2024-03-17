@@ -33,10 +33,10 @@ function App() {
             Program Manager
             <div>
                 <button type="button" className="side-header-button">
-                  위
+                  -
                 </button>
                 <button className="side-header-button">
-                  아래
+                  x
                 </button>
               </div>
           </div>

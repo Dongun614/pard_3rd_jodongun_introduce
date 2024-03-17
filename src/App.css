@@ -30,6 +30,10 @@ body{
   margin-right: 20px;
   margin-left: 5px;
   border-style: outset;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
 
 }
 
